@@ -16,9 +16,9 @@ test {
     useJUnitPlatform()
 }
 
-sourceCompatibility = 1.12
-targetCompatibility = 1.12
+sourceCompatibility = 1.17
+targetCompatibility = 1.17
 
-sourceSets.main.java.srcDirs = ['src']
+sourceSets.main.java.srcDirs = ['src', 'bonus']
 sourceSets.main.resources.srcDirs = ['res']
 sourceSets.test.java.srcDirs = ['test']
