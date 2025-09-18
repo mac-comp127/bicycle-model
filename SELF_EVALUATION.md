@@ -1,5 +1,7 @@
 # Self-Evaluation: Cell Absorption
 
+(Strictly speaking, doing this self-evaluation isn't part of [our procedure for in-class activities](https://f25.comp127.innig.net/resources/activity-procedure/) -- but you may find it useful to look this over to see how your team did.)
+
 ## Checklist
 
 ### Correctness
@@ -42,7 +44,4 @@ Briefly reflect, in writing, on your experience solving this exercise.  What did
 
 ## Optional
 
-Related to the challenges above: think of one or two nontrivial mistakes you made
-and later fixed
-while doing this. Why did you make that mistake? What did you learn from
-fixing it? Are you sure you won't make that kind of mistake again?
+Related to the challenges above: think of one or two nontrivial mistakes you made and later fixed while doing this. Why did you make that mistake? What did you learn from fixing it? Are you sure you won't make that kind of mistake again?
